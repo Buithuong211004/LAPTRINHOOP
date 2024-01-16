@@ -1,0 +1,14 @@
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.AssemblyInfoInputs.cache
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.AssemblyInfo.cs
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.csproj.CoreCompileInputs.cache
+D:\LAPTRINHOOP\heo\bin\Debug\net7.0\heo.exe
+D:\LAPTRINHOOP\heo\bin\Debug\net7.0\heo.deps.json
+D:\LAPTRINHOOP\heo\bin\Debug\net7.0\heo.runtimeconfig.json
+D:\LAPTRINHOOP\heo\bin\Debug\net7.0\heo.dll
+D:\LAPTRINHOOP\heo\bin\Debug\net7.0\heo.pdb
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.dll
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\refint\heo.dll
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.pdb
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\heo.genruntimeconfig.cache
+D:\LAPTRINHOOP\heo\obj\Debug\net7.0\ref\heo.dll

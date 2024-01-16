@@ -1,0 +1,14 @@
+D:\LAPTRINHOOP\ONTAP\bin\Debug\net7.0\ONTAP.exe
+D:\LAPTRINHOOP\ONTAP\bin\Debug\net7.0\ONTAP.deps.json
+D:\LAPTRINHOOP\ONTAP\bin\Debug\net7.0\ONTAP.runtimeconfig.json
+D:\LAPTRINHOOP\ONTAP\bin\Debug\net7.0\ONTAP.dll
+D:\LAPTRINHOOP\ONTAP\bin\Debug\net7.0\ONTAP.pdb
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.AssemblyInfoInputs.cache
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.AssemblyInfo.cs
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.csproj.CoreCompileInputs.cache
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.dll
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\refint\ONTAP.dll
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.pdb
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ONTAP.genruntimeconfig.cache
+D:\LAPTRINHOOP\ONTAP\obj\Debug\net7.0\ref\ONTAP.dll

@@ -1,0 +1,14 @@
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.AssemblyInfoInputs.cache
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.AssemblyInfo.cs
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.csproj.CoreCompileInputs.cache
+D:\LAPTRINHOOP\Th\bin\Debug\net7.0\Th.exe
+D:\LAPTRINHOOP\Th\bin\Debug\net7.0\Th.deps.json
+D:\LAPTRINHOOP\Th\bin\Debug\net7.0\Th.runtimeconfig.json
+D:\LAPTRINHOOP\Th\bin\Debug\net7.0\Th.dll
+D:\LAPTRINHOOP\Th\bin\Debug\net7.0\Th.pdb
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.dll
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\refint\Th.dll
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.pdb
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\Th.genruntimeconfig.cache
+D:\LAPTRINHOOP\Th\obj\Debug\net7.0\ref\Th.dll

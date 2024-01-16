@@ -1,0 +1,14 @@
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.AssemblyInfoInputs.cache
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.AssemblyInfo.cs
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.csproj.CoreCompileInputs.cache
+D:\LAPTRINHOOP\QLDV\bin\Debug\net7.0\QLDV.exe
+D:\LAPTRINHOOP\QLDV\bin\Debug\net7.0\QLDV.deps.json
+D:\LAPTRINHOOP\QLDV\bin\Debug\net7.0\QLDV.runtimeconfig.json
+D:\LAPTRINHOOP\QLDV\bin\Debug\net7.0\QLDV.dll
+D:\LAPTRINHOOP\QLDV\bin\Debug\net7.0\QLDV.pdb
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.dll
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\refint\QLDV.dll
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.pdb
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\QLDV.genruntimeconfig.cache
+D:\LAPTRINHOOP\QLDV\obj\Debug\net7.0\ref\QLDV.dll

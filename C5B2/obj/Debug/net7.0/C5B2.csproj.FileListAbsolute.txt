@@ -1,0 +1,14 @@
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.AssemblyInfoInputs.cache
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.AssemblyInfo.cs
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.csproj.CoreCompileInputs.cache
+D:\LAPTRINHOOP\C5B2\bin\Debug\net7.0\C5B2.exe
+D:\LAPTRINHOOP\C5B2\bin\Debug\net7.0\C5B2.deps.json
+D:\LAPTRINHOOP\C5B2\bin\Debug\net7.0\C5B2.runtimeconfig.json
+D:\LAPTRINHOOP\C5B2\bin\Debug\net7.0\C5B2.dll
+D:\LAPTRINHOOP\C5B2\bin\Debug\net7.0\C5B2.pdb
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.dll
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\refint\C5B2.dll
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.pdb
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\C5B2.genruntimeconfig.cache
+D:\LAPTRINHOOP\C5B2\obj\Debug\net7.0\ref\C5B2.dll

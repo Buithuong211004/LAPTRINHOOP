@@ -1,0 +1,14 @@
+D:\LAPTRINHOOP\ON\bin\Debug\net7.0\ON.exe
+D:\LAPTRINHOOP\ON\bin\Debug\net7.0\ON.deps.json
+D:\LAPTRINHOOP\ON\bin\Debug\net7.0\ON.runtimeconfig.json
+D:\LAPTRINHOOP\ON\bin\Debug\net7.0\ON.dll
+D:\LAPTRINHOOP\ON\bin\Debug\net7.0\ON.pdb
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.AssemblyInfoInputs.cache
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.AssemblyInfo.cs
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.csproj.CoreCompileInputs.cache
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.dll
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\refint\ON.dll
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.pdb
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ON.genruntimeconfig.cache
+D:\LAPTRINHOOP\ON\obj\Debug\net7.0\ref\ON.dll
